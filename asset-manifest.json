@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emeraldlakers/static/css/main.1ac3ee11.css",
+    "main.js": "/emeraldlakers/static/js/main.4dcf6cd2.js",
+    "static/media/player1.png": "/emeraldlakers/static/media/player1.de556678664ce72d3f18.png",
+    "static/media/basketballplayer.png": "/emeraldlakers/static/media/basketballplayer.9d213acc38fb8ea3e08e.png",
+    "static/media/basketballhoop.jpeg": "/emeraldlakers/static/media/basketballhoop.b27d190c93faad658ab4.jpeg",
+    "index.html": "/emeraldlakers/index.html",
+    "main.1ac3ee11.css.map": "/emeraldlakers/static/css/main.1ac3ee11.css.map",
+    "main.4dcf6cd2.js.map": "/emeraldlakers/static/js/main.4dcf6cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac3ee11.css",
+    "static/js/main.4dcf6cd2.js"
+  ]
+}
