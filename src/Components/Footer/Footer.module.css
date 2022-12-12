@@ -1,0 +1,64 @@
+.footer {
+    display: flex;
+    flex-direction:row;
+    justify-content: left;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(38,38, 38);
+    background: linear-gradient(0deg, rgba(38,38,38,1) 0%, rgba(42,64,83,1) 100%);
+    height: 160px;
+    font-size: 1rem;
+    color: white;
+    margin-top: auto;
+    position:absolute;
+}
+.singleCol {
+    padding: 10px;
+    max-width: 750px;
+    height: auto;
+    margin: 10px auto;
+}
+.text-center {
+    font-size: 1rem;
+}
+
+.FontAwesomeIcon{
+        font-size: 40px;
+        color: white;
+      }
+.faTwitter {
+    font-size: 40px;
+        color: white;
+}
+.a {
+    font-size: 40px;
+        color: white;
+}
+.TwitterIcon{
+        font-size: 40px;
+        color: white;
+      }
+
+.InstagramIcon{
+        font-size: 40px;
+        color: white;
+      }
+
+.social-media-icons-white a {
+    color: #fff;
+    font-size: 1rem;
+    padding: 16px!important;
+}
+
+.footer .container {
+    width: 1040px;
+    height: auto;
+    margin-top: auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+    color: white;
+}
+

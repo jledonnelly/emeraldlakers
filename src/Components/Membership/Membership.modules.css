@@ -1,0 +1,63 @@
+.Membership {
+    background: url("/Users/jaimedonnelly/Desktop/react-emerald-lakers-2/src/images/basketballhoop.jpeg") no-repeat center/cover;
+}
+.form {
+    width: 600px;
+    height: 100vh;
+    display:inline-flex;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    margin: 50px;
+    
+    }
+.btn {
+        display: block;
+        color: red !important ;
+        background-color: white !important ;
+        border-radius: 4px;
+        font-size: larger;
+        padding: 5px;
+
+    }
+    .label{
+    display: block;
+    font-size: larger;
+    color: white;
+    text-align: left;
+    padding: 5px;
+    margin-left: 20px;
+    
+    }
+    
+    .input{
+    display: flex;
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    margin:10px;
+    
+    }
+   
+    .messages{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .error{
+    display: block;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    }
+    
+    .success{
+    display: flex;
+    background-color: greenyellow;
+    color: black;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    }

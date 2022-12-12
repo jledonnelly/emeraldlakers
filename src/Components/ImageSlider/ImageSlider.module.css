@@ -1,0 +1,96 @@
+
+.ImageSlider {
+    background-color: rgb(38,38, 38);
+    background: linear-gradient(0deg, rgba(38,38,38,1) 0%, rgba(42,64,83,1) 100%);
+    color: white;
+    margin-left: 0;
+    margin-right: 0;
+    height: 100vh;
+  }
+ .span {
+  opacity: .5;
+  
+ } 
+  .heading h1 {
+    background-color: black;
+  color: white;
+  font-size: 4rem;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .heading p {
+    text-align:center;
+    font-size: 15px;
+  }
+  
+  .text_bg {
+    height: 70px;
+    max-width: 650px;
+    margin: auto;
+    position: center sticky;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+  }
+  
+  .text_bg p {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-top: -0.6rem;
+    margin-bottom: -0.6rem;
+  }
+  
+  .slider_container {
+  background-color: black;
+  color: white;
+  padding: 4rem 0;
+  }
+  
+  
+  .card {
+    background-color: black;
+  color: white;
+  margin: .5rem;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
+  
+  .card img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 220px;
+    object-fit: cover;
+  }
+  
+  .card p {
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  
+  
+  @media screen and (max-width: 500px) {
+    .card {
+      width: 100%;
+    }
+  }
+  
+  .swiper-container {
+    width: 480px;
+  }
+  
+  @media screen and (min-width: 640px) {
+    .swiper-container {
+      width: 640px;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .swiper-container {
+      width: 768px;
+    }
+  }
